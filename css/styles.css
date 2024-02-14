@@ -76,6 +76,7 @@ ol {
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: #fff;
+  text-align: center;
 }
 
 .hero-button {
@@ -95,7 +96,8 @@ ol {
 
 /* Benefit section */
 .benefits-title,
-.person-name {
+.person-name,
+.portfolio-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -118,7 +120,6 @@ ol {
 }
 
 .team-item {
-  width: 264px;
   background: #fff;
 }
 
@@ -135,6 +136,8 @@ ol {
 
 .person-duties {
   font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 /* /Team section */
