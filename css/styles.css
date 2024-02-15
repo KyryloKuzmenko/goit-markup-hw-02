@@ -79,6 +79,10 @@ ol {
   text-align: center;
 }
 
+.hero-section {
+  text-align: center;
+}
+
 .hero-button {
   background: #4d5ae5;
   font-weight: 500;
@@ -105,7 +109,9 @@ ol {
   color: #2e2f42;
 }
 
-.benefit-paragraph {
+.benefit-paragraph,
+.person-duties,
+.portfolio-paragraph {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -134,11 +140,11 @@ ol {
   text-transform: capitalize;
 }
 
-.person-duties {
+/* .person-duties {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
+} */
 
 /* /Team section */
 
@@ -147,6 +153,11 @@ ol {
   text-align: center;
   text-transform: capitalize;
 }
+
+.portfolio-products {
+  
+}
+
 /* /Portfolio section */
 
 /* Footer section */
