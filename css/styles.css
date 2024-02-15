@@ -166,7 +166,6 @@ ol {
   color: #2e2f42;
 }
 
-
 /* /Portfolio section */
 
 /* Footer section */
@@ -176,9 +175,12 @@ ol {
 
 .footer-paragraph,
 .footer-accent {
+  color: #f4f4fd;
+}
+
+.footer-paragraph {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #f4f4fd;
 }
 
 /* /Footer section */
